@@ -124,4 +124,3 @@ Cada barra corresponde a uma região específica dentro de cada mês, permitindo
 ## 📧 Contato
 Caso queira trocar ideias ou colaborar, me envie uma mensagem!  
 [LinkedIn](https://www.linkedin.com/in/marcoagalvao/)  
-```
