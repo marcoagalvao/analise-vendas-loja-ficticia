@@ -20,6 +20,10 @@ O objetivo deste projeto é analisar as vendas de uma loja online de roupas e ac
 📁 projeto-analise-vendas
 ├── 📄 dados_vendas_lojas.csv     # Conjunto de dados com as vendas da loja
 ├── 📄 vendas_lojas.py            # Script Python com a análise de dados
+├── 📄 grafico_vendas_totais.png  # Gráfico de Vendas Totais por Mês
+├── 📄 grafico_vendas_por_categoria.png # Gráfico de Vendas por Categoria
+├── 📄 grafico_vendas_por_regiao.png # Gráfico de Vendas por Região
+├── 📄 grafico_metodos_pagamento.png # Gráfico de Métodos de Pagamento
 └── 📄 README.md                  # Documentação do projeto
 ```
 
