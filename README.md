@@ -58,7 +58,7 @@ python vendas_lojas.py
 
 #### **Gráfico de Vendas Totais por Mês**
 O gráfico de linha apresenta as variações mensais de faturamento, permitindo identificar períodos de queda ou aumento nas vendas.
-
+![Gráfico de Vendas Totais](grafico_vendas_totais.png)
 ---
 
 ### 2. 🛍️ Análise por Categoria
@@ -67,7 +67,7 @@ O gráfico de linha apresenta as variações mensais de faturamento, permitindo 
 
 #### **Gráfico de Vendas por Categoria (Barras Agrupadas)**
 Cada barra representa uma categoria específica, agrupada por mês, facilitando a comparação direta entre os diferentes tipos de produtos.
-
+![Gráfico de Vendas por Categoria](grafico_vendas_por_categoria.png)
 ---
 
 ### 3. 🌎 Análise por Região
@@ -76,13 +76,13 @@ Cada barra representa uma categoria específica, agrupada por mês, facilitando 
 
 #### **Gráfico de Vendas por Região (Barras Agrupadas)**
 Cada barra corresponde a uma região específica dentro de cada mês, permitindo identificar quedas significativas em determinadas localidades.
-
+![Gráfico de Vendas por Região](grafico_vendas_por_regiao.png)
 ---
 
 ### 4. 💳 Análise por Método de Pagamento
 - Verificação da correlação entre os métodos de pagamento e as vendas.
 - Gráfico de barras agrupadas para visualizar os métodos mais utilizados e a relação entre eles.
-
+![Gráfico de Métodos de Pagamento](grafico_metodos_pagamento.png)
 #### **Tabela de Correlação entre Métodos de Pagamento**
 | Boleto | Cartão | Pix |
 |-------|-------|-----|
