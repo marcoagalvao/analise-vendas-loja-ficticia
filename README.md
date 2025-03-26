@@ -6,6 +6,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-green)
 
 > **Projeto desenvolvido para consolidar habilidades em Análise de Dados utilizando Python e bibliotecas de visualização.**
+> > **Projeto desenvolvido com uma base de dados fictícia .**
 
 ---
 
